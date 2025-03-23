@@ -1,7 +1,8 @@
-import { Metadata } from 'next';
-export const metadata: Metadata = {
-  title: 'Customers',
-};
-export default function Customers() {
-    return <p>Customers Page</p>;
+export default function Customers( ) {
+  
+    return 
+    <div className="p-6">
+      
+    </div>
+    ;
   }
